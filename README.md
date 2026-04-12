@@ -87,4 +87,4 @@ All phishing samples used in this project were sourced from a public honeypot re
 
 **Titus Joshua**
 SOC Analyst 
-[LinkedIn](www.linkedin.com/in/titusjoshua) | [GitHub](https://github.com/yourusername)
+[LinkedIn](www.linkedin.com/in/titusjoshua) | [GitHub](https://github.com/JoshTEphraim/FUTURE_CS_02/tree/main)
