@@ -85,6 +85,6 @@ All phishing samples used in this project were sourced from a public honeypot re
 
 ## Author
 
-**[Your Name]**
-SOC Analyst | CompTIA Security+ | BTL1
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+**Titus Joshua**
+SOC Analyst 
+[LinkedIn](www.linkedin.com/in/titusjoshua) | [GitHub](https://github.com/yourusername)
