@@ -1,4 +1,4 @@
-# FUTURE_CS_02
+
 # Phishing Email Detection & Awareness Report
 
 A real-world phishing email analysis project completed as part of a SOC Analyst awareness exercise. Two live phishing samples were collected, analyzed using industry-standard tools, and documented in a client-ready report.
@@ -86,5 +86,5 @@ All phishing samples used in this project were sourced from a public honeypot re
 ## Author
 
 **Titus Joshua**
-SOC Analyst 
+Security Analyst 
 [LinkedIn](https://www.linkedin.com/in/titusjoshua/) | [GitHub](https://github.com/JoshTEphraim/FUTURE_CS_02/tree/main)
