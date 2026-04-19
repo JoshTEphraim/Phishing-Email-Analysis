@@ -1,5 +1,5 @@
 
-# Phishing Email Detection & Awareness Report
+# Phishing Email Detection & Awareness
 
 A real-world phishing email analysis project completed as part of a SOC Analyst awareness exercise. Two live phishing samples were collected, analyzed using industry-standard tools, and documented in a client-ready report.
 
